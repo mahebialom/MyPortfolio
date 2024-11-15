@@ -1,0 +1,21 @@
+/* Styling for the PDF viewer */
+#pdfViewer {
+    width: 100%;
+    height: 600px;
+    border: 1px solid #bf2626;
+  }
+  
+  /* Styling for the download button */
+  .download-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .download-btn:hover {
+    background-color: #0056b3;
+  }
+  
