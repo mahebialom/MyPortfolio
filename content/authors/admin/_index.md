@@ -1,6 +1,13 @@
 ---
 # Display name
+<<<<<<< HEAD
 title: Md. Mahebi Alom Dipu
+=======
+title: Dipu
+
+# Name pronunciation (optional)
+name_pronunciation: Chien Shiung Wu
+>>>>>>> 554db27c722dea667b0de03b13fc679b4449abac
 
 # Full name (for SEO)
 first_name: Mahebi Alom
