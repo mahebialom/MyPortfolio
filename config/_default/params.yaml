@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "MAHEBI ALOM DIPU"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '©{year} mahebialom | All rights reserved'
     license:
       enable: true
       allow_derivatives: false
