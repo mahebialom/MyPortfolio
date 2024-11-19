@@ -124,7 +124,7 @@ skills:
 awards:
  
   - title: 'Responsive Web Design'
-    url: https://www.freecodecamp.org/certification/DhaliDeba387/responsive-web-design
+    url: https://www.freecodecamp.org/certification/mahebialom/responsive-web-design
     date: '2024-11-01'
     awarder: freeCodeCamp
     icon: freecodecamp
