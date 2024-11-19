@@ -1,7 +1,7 @@
 ---
 title: Tribute to Mashrafe Mortaza
 date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: https://github.com/mahebialom/Tribute-to-Mashrafe-Mortaza
 tags:
   - Hugo
   - Wowchemy
