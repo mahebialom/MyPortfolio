@@ -1,7 +1,7 @@
 ---
 title: JU Online Payment System
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://github.com/mahebialom/JU-Online-Payment-System
 tags:
   - Hugo
   - Wowchemy
