@@ -8,13 +8,14 @@ main:
     url: /
     weight: 1
 
+  - name: Resume
+    url: cv/
+    weight: 2
+
   - name: Experience
     url: experience/
     weight: 3
 
-  - name: Resume
-    url: cv/
-    weight: 2
 
   - name: Projects
     url: projects/

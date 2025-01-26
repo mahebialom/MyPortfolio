@@ -3,12 +3,12 @@
 title: Md. Mahebi Alom Dipu
 
 # Full name (for SEO)
-first_name: Mahebi Alom
+first_name: Md. Mahebi Alom
 last_name: Dipu
 
 # Status emoji
 status:
-  icon: 🔒
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Web Developer & IoT Specialist
+role: Front-End Developer | IoT & Robotics enthusiast
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -40,9 +40,10 @@ profiles:
     url: https://www.linkedin.com/in/mahebialom
 
 interests:
+  - Artificial Intelligence
   - Web Development
-  - IoT
-  - Artificial intelligence
+  - IoT & Robotics
+  
 
 education:
   - area: BSc. in Computer Science & Engineering
@@ -76,6 +77,7 @@ work:
       - ESP32, NodeMCU8266
       - Sensors, Actuator
       - Automation
+      -IoT Platforms
       
 
 # Skills
@@ -135,7 +137,7 @@ awards:
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     date: '2016-04-08'
     awarder: ICT Division
-    icon: ICT Division
+    icon: ICTDivision
     summary: |
       The National High School Programming Contest (NHSPC) is an initiative organized by the ICT Division of Bangladesh to promote programming and computational thinking among high school students.I was a participant at national level.
 ---
