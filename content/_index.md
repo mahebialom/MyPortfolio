@@ -6,19 +6,22 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Resume
         url: uploads/Resume_of_Md__Mahebi_Alom_Dipu.pdf
     design:
+
+
+      columns: "1"
       css_class: dark
       background:
         color: slategray
